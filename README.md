@@ -1,0 +1,2 @@
+# ForgeBot-Resources
+Resources container
