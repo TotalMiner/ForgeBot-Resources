@@ -10523,7 +10523,7 @@
 	<ItemID>RawBeef</ItemID>
 	<IDString>RawBeef</IDString>
 	<Name>Raw Beef</Name>
-	<Desc>Raw Beef. I could eat this, but I think it would taste a lot nice if cooked.</Desc>
+	<Desc>Raw Beef. I could eat this, but I think it would taste a lot nicer if cooked.</Desc>
 	<IsValid>true</IsValid>
 	<IsEnabled>true</IsEnabled>
 	<LockedDD>true</LockedDD>
